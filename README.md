@@ -10,7 +10,7 @@ npx create-flex-plugin plugin-<plugin-name> https://github.com/vernig/flex-plugi
 
 ## Available templates 
 
-### Sample replacement
+### Sample plugin
 
 Just basic template with no components
 
